@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source
- (uri "git+https://codeberg.org/duras/syto.git"))
+ (github sduras/syto))
 
 (license ISC)
 

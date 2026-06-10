@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://codeberg.org/duras/syto.git"
+dev-repo: "git+https://github.com/sduras/syto.git"
