@@ -1,0 +1,5 @@
+(library
+ (name syto)
+ (public_name syto)
+ (modules syto token utf8 parser matcher)
+ (private_modules token utf8 parser matcher))

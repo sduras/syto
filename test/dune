@@ -1,0 +1,4 @@
+(test
+ (name test_syto)
+ (libraries syto alcotest)
+ (deps vectors.txt))
