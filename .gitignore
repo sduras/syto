@@ -4,4 +4,5 @@ _opam/
 .merlin
 *.annot
 .DS_Store
+bin/
 syto-spec.*
